@@ -1,0 +1,2487 @@
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1e4)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyXX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets/logo.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/logo.png - 128 x 128 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/logo.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 3
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\CubicSpline.ls', 164 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 238350 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 68
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 13
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyXX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\CubicSpline.ls', 234 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 238348 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 68
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Image : 13
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyXX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PointMethods.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PointMethods.ls', 166 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 238413 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 68
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Image : 13
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyXX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PointMethods.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PointMethods.ls', 173 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 162 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 238417 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 68
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 13
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyXX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 196 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 197 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 196 bytes.
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\CubicSpline.ls', 397 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 251 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 280 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 328 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 352 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 410 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 406 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 414 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 453 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 480 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 482 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 488 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 502 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 606 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 657 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 691 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 691 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1308 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1397 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1429 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1455 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1502 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1500 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1630 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1627 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 688 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 686 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1670 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 775 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1700 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyXX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyXX.ls', 1701 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/logo.png - 128 x 128 at id 2
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/logo.png
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1fc)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1fc)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[loom.asset]    o OK!
+[loom.asset] Client connected (120)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 239189 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 691 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 239181 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: loom2d.display.Image : 22
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 691 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 239183 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.display.Image : 23
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 743 bytes.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 744 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 239205 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 36
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 744 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 239202 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.display.Image : 36
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12341, trying port 12342
+[loom.asset]    o OK!
+[loom.asset] Client connected (12c)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 239865 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: before: Touch 0: globalX=352, globalY=293, phase=began
+[asset.protocol] LOG: polar: (61.911226768656,1.0276067505071)
+[asset.protocol] LOG: after: [Point 352, 293]
+[asset.protocol] LOG: before: Touch 0: globalX=352, globalY=293, phase=ended
+[asset.protocol] LOG: polar: (61.911226768656,1.0276067505071)
+[asset.protocol] LOG: after: [Point 352, 293]
+[asset.protocol] LOG: before: Touch 0: globalX=230, globalY=303, phase=began
+[asset.protocol] LOG: polar: (109.8590005416,2.5308666892006)
+[asset.protocol] LOG: after: [Point 230, 303]
+[asset.protocol] LOG: before: Touch 0: globalX=229, globalY=303, phase=moved
+[asset.protocol] LOG: polar: (110.67971810589,2.5360479899848)
+[asset.protocol] LOG: after: [Point 229, 303]
+[asset.protocol] LOG: before: Touch 0: globalX=224, globalY=303, phase=moved
+[asset.protocol] LOG: polar: (114.82595525403,2.5608363000221)
+[asset.protocol] LOG: after: [Point 224, 303]
+[asset.protocol] LOG: before: Touch 0: globalX=216, globalY=306, phase=moved
+[asset.protocol] LOG: polar: (123.1746727213,2.576108765435)
+[asset.protocol] LOG: after: [Point 216, 306]
+[asset.protocol] LOG: before: Touch 0: globalX=210, globalY=308, phase=moved
+[asset.protocol] LOG: polar: (129.32130528262,2.5879113313828)
+[asset.protocol] LOG: after: [Point 210, 308]
+[asset.protocol] LOG: before: Touch 0: globalX=204, globalY=312, phase=moved
+[asset.protocol] LOG: polar: (136.52838532701,2.5860989183242)
+[asset.protocol] LOG: after: [Point 204, 312]
+[asset.protocol] LOG: before: Touch 0: globalX=199, globalY=315, phase=moved
+[asset.protocol] LOG: polar: (142.35870187663,2.5867163292357)
+[asset.protocol] LOG: after: [Point 199, 315]
+[asset.protocol] LOG: before: Touch 0: globalX=198, globalY=315, phase=moved
+[asset.protocol] LOG: polar: (143.20963654727,2.590395127571)
+[asset.protocol] LOG: after: [Point 198, 315]
+[asset.protocol] LOG: before: Touch 0: globalX=187, globalY=324, phase=moved
+[asset.protocol] LOG: polar: (157.30543537971,2.5782763920978)
+[asset.protocol] LOG: after: [Point 187, 324]
+[asset.protocol] LOG: before: Touch 0: globalX=186, globalY=324, phase=moved
+[asset.protocol] LOG: polar: (158.15182578775,2.5816528564754)
+[asset.protocol] LOG: after: [Point 186, 324]
+[asset.protocol] LOG: before: Touch 0: globalX=180, globalY=333, phase=moved
+[asset.protocol] LOG: polar: (168.0743882928,2.5552402135609)
+[asset.protocol] LOG: after: [Point 180, 333]
+[asset.protocol] LOG: before: Touch 0: globalX=180, globalY=334, phase=moved
+[asset.protocol] LOG: polar: (168.62977198585,2.5503005882227)
+[asset.protocol] LOG: after: [Point 180, 334]
+[asset.protocol] LOG: before: Touch 0: globalX=179, globalY=338, phase=moved
+[asset.protocol] LOG: polar: (171.71196813268,2.5342063714407)
+[asset.protocol] LOG: after: [Point 179, 338]
+[asset.protocol] LOG: before: Touch 0: globalX=179, globalY=340, phase=moved
+[asset.protocol] LOG: polar: (172.86121600868,2.5247056297162)
+[asset.protocol] LOG: after: [Point 179, 340]
+[asset.protocol] LOG: before: Touch 0: globalX=179, globalY=344, phase=moved
+[asset.protocol] LOG: polar: (175.20559351802,2.5060822423001)
+[asset.protocol] LOG: after: [Point 179, 344]
+[asset.protocol] LOG: before: Touch 0: globalX=181, globalY=348, phase=moved
+[asset.protocol] LOG: polar: (176.02556632489,2.4810477408015)
+[asset.protocol] LOG: after: [Point 181, 348]
+[asset.protocol] LOG: before: Touch 0: globalX=181, globalY=349, phase=moved
+[asset.protocol] LOG: polar: (176.640878621,2.4765773109929)
+[asset.protocol] LOG: after: [Point 181, 349]
+[asset.protocol] LOG: before: Touch 0: globalX=185, globalY=355, phase=moved
+[asset.protocol] LOG: polar: (177.34147850968,2.4360244759046)
+[asset.protocol] LOG: after: [Point 185, 355]
+[asset.protocol] LOG: before: Touch 0: globalX=188, globalY=358, phase=moved
+[asset.protocol] LOG: polar: (177.05366418123,2.4121360614259)
+[asset.protocol] LOG: after: [Point 188, 358]
+[asset.protocol] LOG: before: Touch 0: globalX=205, globalY=368, phase=moved
+[asset.protocol] LOG: polar: (172.07265907168,2.3027474979108)
+[asset.protocol] LOG: after: [Point 205, 368]
+[asset.protocol] LOG: before: Touch 0: globalX=223, globalY=375, phase=moved
+[asset.protocol] LOG: polar: (166.23477373883,2.1938430082795)
+[asset.protocol] LOG: after: [Point 223, 375]
+[asset.protocol] LOG: before: Touch 0: globalX=245, globalY=380, phase=moved
+[asset.protocol] LOG: polar: (158.82380174269,2.0626055027836)
+[asset.protocol] LOG: after: [Point 245, 380]
+[asset.protocol] LOG: before: Touch 0: globalX=262, globalY=382, phase=moved
+[asset.protocol] LOG: polar: (153.38839591051,1.9585664986702)
+[asset.protocol] LOG: after: [Point 262, 382]
+[asset.protocol] LOG: before: Touch 0: globalX=289, globalY=384, phase=moved
+[asset.protocol] LOG: polar: (147.2990156111,1.7828379764712)
+[asset.protocol] LOG: after: [Point 289, 384]
+[asset.protocol] LOG: before: Touch 0: globalX=292, globalY=384, phase=moved
+[asset.protocol] LOG: polar: (146.69696656714,1.7628443440356)
+[asset.protocol] LOG: after: [Point 292, 384]
+[asset.protocol] LOG: before: Touch 0: globalX=327, globalY=379, phase=moved
+[asset.protocol] LOG: polar: (139.17614738165,1.5204791223334)
+[asset.protocol] LOG: after: [Point 327, 379]
+[asset.protocol] LOG: before: Touch 0: globalX=340, globalY=374, phase=moved
+[asset.protocol] LOG: polar: (135.48431643552,1.4226363060631)
+[asset.protocol] LOG: after: [Point 340, 374]
+[asset.protocol] LOG: before: Touch 0: globalX=352, globalY=366, phase=moved
+[asset.protocol] LOG: polar: (130,1.3220863377014)
+[asset.protocol] LOG: after: [Point 352, 366]
+[asset.protocol] LOG: before: Touch 0: globalX=361, globalY=358, phase=moved
+[asset.protocol] LOG: polar: (124.9199743836,1.2363882205642)
+[asset.protocol] LOG: after: [Point 361, 358]
+[asset.protocol] LOG: before: Touch 0: globalX=378, globalY=342, phase=moved
+[asset.protocol] LOG: polar: (117.33712115098,1.0537643743034)
+[asset.protocol] LOG: after: [Point 378, 342]
+[asset.protocol] LOG: before: Touch 0: globalX=380, globalY=340, phase=moved
+[asset.protocol] LOG: polar: (116.61903789691,1.0303768265243)
+[asset.protocol] LOG: after: [Point 380, 340]
+[asset.protocol] LOG: before: Touch 0: globalX=404, globalY=311, phase=moved
+[asset.protocol] LOG: polar: (109.98636279103,0.70172302873005)
+[asset.protocol] LOG: after: [Point 404, 311]
+[asset.protocol] LOG: before: Touch 0: globalX=417, globalY=291, phase=moved
+[asset.protocol] LOG: polar: (109.59014554238,0.48405293968734)
+[asset.protocol] LOG: after: [Point 417, 291]
+[asset.protocol] LOG: before: Touch 0: globalX=423, globalY=274, phase=moved
+[asset.protocol] LOG: polar: (108.46658471622,0.31883511076187)
+[asset.protocol] LOG: after: [Point 423, 274]
+[asset.protocol] LOG: before: Touch 0: globalX=425, globalY=257, phase=moved
+[asset.protocol] LOG: polar: (106.3672882046,0.16051192548186)
+[asset.protocol] LOG: after: [Point 425, 257]
+[asset.protocol] LOG: before: Touch 0: globalX=425, globalY=244, phase=moved
+[asset.protocol] LOG: polar: (105.07616285343,0.038076825589803)
+[asset.protocol] LOG: after: [Point 425, 244]
+[asset.protocol] LOG: before: Touch 0: globalX=422, globalY=232, phase=moved
+[asset.protocol] LOG: polar: (102.31324449943,6.2049141666583)
+[asset.protocol] LOG: after: [Point 422, 232]
+[asset.protocol] LOG: before: Touch 0: globalX=418, globalY=221, phase=moved
+[asset.protocol] LOG: polar: (99.824846606444,6.09168358871)
+[asset.protocol] LOG: after: [Point 418, 221]
+[asset.protocol] LOG: before: Touch 0: globalX=418, globalY=220, phase=moved
+[asset.protocol] LOG: polar: (100.0199980004,6.0818681988049)
+[asset.protocol] LOG: after: [Point 418, 220]
+[asset.protocol] LOG: before: Touch 0: globalX=413, globalY=211, phase=moved
+[asset.protocol] LOG: polar: (97.41663102366,5.9809128085995)
+[asset.protocol] LOG: after: [Point 413, 211]
+[asset.protocol] LOG: before: Touch 0: globalX=412, globalY=210, phase=moved
+[asset.protocol] LOG: polar: (96.767763227224,5.9679706074289)
+[asset.protocol] LOG: after: [Point 412, 210]
+[asset.protocol] LOG: before: Touch 0: globalX=412, globalY=210, phase=ended
+[asset.protocol] LOG: polar: (96.767763227224,5.9679706074289)
+[asset.protocol] LOG: after: [Point 412, 210]
+[asset.protocol] LOG: before: Touch 0: globalX=291, globalY=173, phase=began
+[asset.protocol] LOG: polar: (73.006848993776,4.3039000873121)
+[asset.protocol] LOG: after: [Point 291, 173]
+[asset.protocol] LOG: before: Touch 0: globalX=290, globalY=173, phase=moved
+[asset.protocol] LOG: polar: (73.409808608932,4.2913984061324)
+[asset.protocol] LOG: after: [Point 290, 173]
+[asset.protocol] LOG: before: Touch 0: globalX=290, globalY=174, phase=moved
+[asset.protocol] LOG: polar: (72.498275841567,4.2857614872578)
+[asset.protocol] LOG: after: [Point 290, 174]
+[asset.protocol] LOG: before: Touch 0: globalX=289, globalY=174, phase=moved
+[asset.protocol] LOG: polar: (72.917761896537,4.2732763244466)
+[asset.protocol] LOG: after: [Point 289, 174]
+[asset.protocol] LOG: before: Touch 0: globalX=289, globalY=175, phase=moved
+[asset.protocol] LOG: polar: (72.013887549555,4.2673727556291)
+[asset.protocol] LOG: after: [Point 289, 175]
+[asset.protocol] LOG: before: Touch 0: globalX=278, globalY=185, phase=moved
+[asset.protocol] LOG: polar: (69.202601107184,4.0602175686276)
+[asset.protocol] LOG: after: [Point 278, 185]
+[asset.protocol] LOG: before: Touch 0: globalX=278, globalY=186, phase=moved
+[asset.protocol] LOG: polar: (68.410525505948,4.051345811534)
+[asset.protocol] LOG: after: [Point 278, 186]
+[asset.protocol] LOG: before: Touch 0: globalX=274, globalY=192, phase=moved
+[asset.protocol] LOG: polar: (66.483080554379,3.9482642030113)
+[asset.protocol] LOG: after: [Point 274, 192]
+[asset.protocol] LOG: before: Touch 0: globalX=273, globalY=196, phase=moved
+[asset.protocol] LOG: polar: (64.381674411279,3.8940357193729)
+[asset.protocol] LOG: after: [Point 273, 196]
+[asset.protocol] LOG: before: Touch 0: globalX=274, globalY=198, phase=moved
+[asset.protocol] LOG: polar: (62.28964600959,3.8815675375657)
+[asset.protocol] LOG: after: [Point 274, 198]
+[asset.protocol] LOG: before: Touch 0: globalX=276, globalY=200, phase=moved
+[asset.protocol] LOG: polar: (59.464274989274,3.8794077137103)
+[asset.protocol] LOG: after: [Point 276, 200]
+[asset.protocol] LOG: before: Touch 0: globalX=278, globalY=202, phase=moved
+[asset.protocol] LOG: polar: (56.639209034025,3.8770324212653)
+[asset.protocol] LOG: after: [Point 278, 202]
+[asset.protocol] LOG: before: Touch 0: globalX=283, globalY=208, phase=moved
+[asset.protocol] LOG: polar: (48.91829923454,3.8546534864486)
+[asset.protocol] LOG: after: [Point 283, 208]
+[asset.protocol] LOG: before: Touch 0: globalX=291, globalY=214, phase=moved
+[asset.protocol] LOG: polar: (38.948684188301,3.8724993607465)
+[asset.protocol] LOG: after: [Point 291, 214]
+[asset.protocol] LOG: before: Touch 0: globalX=305, globalY=216, phase=moved
+[asset.protocol] LOG: polar: (28.30194339617,4.1537896650411)
+[asset.protocol] LOG: after: [Point 305, 216]
+[asset.protocol] LOG: before: Touch 0: globalX=317, globalY=216, phase=moved
+[asset.protocol] LOG: polar: (24.186773244896,4.5880339858379)
+[asset.protocol] LOG: after: [Point 317, 216]
+[asset.protocol] LOG: before: Touch 0: globalX=337, globalY=210, phase=moved
+[asset.protocol] LOG: polar: (34.481879299133,5.2279379878437)
+[asset.protocol] LOG: after: [Point 337, 210]
+[asset.protocol] LOG: before: Touch 0: globalX=339, globalY=210, phase=moved
+[asset.protocol] LOG: polar: (35.510561809129,5.2769583740528)
+[asset.protocol] LOG: after: [Point 339, 210]
+[asset.protocol] LOG: before: Touch 0: globalX=366, globalY=203, phase=moved
+[asset.protocol] LOG: polar: (59.033888572582,5.6057988684822)
+[asset.protocol] LOG: after: [Point 366, 203]
+[asset.protocol] LOG: before: Touch 0: globalX=368, globalY=202, phase=moved
+[asset.protocol] LOG: polar: (61.220911460056,5.6135463615029)
+[asset.protocol] LOG: after: [Point 368, 202]
+[asset.protocol] LOG: before: Touch 0: globalX=369, globalY=202, phase=moved
+[asset.protocol] LOG: polar: (62.00806399171,5.6235565645427)
+[asset.protocol] LOG: after: [Point 369, 202]
+[asset.protocol] LOG: before: Touch 0: globalX=368, globalY=198, phase=moved
+[asset.protocol] LOG: polar: (63.780874876408,5.564355307558)
+[asset.protocol] LOG: after: [Point 368, 198]
+[asset.protocol] LOG: before: Touch 0: globalX=356, globalY=179, phase=moved
+[asset.protocol] LOG: polar: (70.830784267859,5.2455446858923)
+[asset.protocol] LOG: after: [Point 356, 179]
+[asset.protocol] LOG: before: Touch 0: globalX=355, globalY=177, phase=moved
+[asset.protocol] LOG: polar: (72.069410986909,5.219487484777)
+[asset.protocol] LOG: after: [Point 355, 177]
+[asset.protocol] LOG: before: Touch 0: globalX=331, globalY=152, phase=moved
+[asset.protocol] LOG: polar: (88.684835231284,4.8367439749315)
+[asset.protocol] LOG: after: [Point 331, 152]
+[asset.protocol] LOG: before: Touch 0: globalX=312, globalY=140, phase=moved
+[asset.protocol] LOG: polar: (100.31948963188,4.6325589946725)
+[asset.protocol] LOG: after: [Point 312, 140]
+[asset.protocol] LOG: before: Touch 0: globalX=294, globalY=131, phase=moved
+[asset.protocol] LOG: polar: (112.05802068571,4.4782324055749)
+[asset.protocol] LOG: after: [Point 294, 131]
+[asset.protocol] LOG: before: Touch 0: globalX=274, globalY=124, phase=moved
+[asset.protocol] LOG: polar: (124.78781991845,4.3348587849612)
+[asset.protocol] LOG: after: [Point 274, 124]
+[asset.protocol] LOG: before: Touch 0: globalX=272, globalY=124, phase=moved
+[asset.protocol] LOG: polar: (125.5388386118,4.3200488361692)
+[asset.protocol] LOG: after: [Point 272, 124]
+[asset.protocol] LOG: before: Touch 0: globalX=251, globalY=128, phase=moved
+[asset.protocol] LOG: polar: (131.54847015454,4.1602359899292)
+[asset.protocol] LOG: after: [Point 251, 128]
+[asset.protocol] LOG: before: Touch 0: globalX=249, globalY=129, phase=moved
+[asset.protocol] LOG: polar: (131.76494222668,4.1433314783605)
+[asset.protocol] LOG: after: [Point 249, 129]
+[asset.protocol] LOG: before: Touch 0: globalX=210, globalY=150, phase=moved
+[asset.protocol] LOG: polar: (142.12670403552,3.8273221644961)
+[asset.protocol] LOG: after: [Point 210, 150]
+[asset.protocol] LOG: before: Touch 0: globalX=184, globalY=184, phase=moved
+[asset.protocol] LOG: polar: (147.0782104868,3.5321996972875)
+[asset.protocol] LOG: after: [Point 184, 184]
+[asset.protocol] LOG: before: Touch 0: globalX=168, globalY=215, phase=moved
+[asset.protocol] LOG: polar: (154.04220200971,3.3046068625277)
+[asset.protocol] LOG: after: [Point 168, 215]
+[asset.protocol] LOG: before: Touch 0: globalX=159, globalY=269, phase=moved
+[asset.protocol] LOG: polar: (163.5909532951,2.963379392895)
+[asset.protocol] LOG: after: [Point 159, 269]
+[asset.protocol] LOG: before: Touch 0: globalX=169, globalY=292, phase=moved
+[asset.protocol] LOG: polar: (159.70284906663,2.8099414326052)
+[asset.protocol] LOG: after: [Point 169, 292]
+[asset.protocol] LOG: before: Touch 0: globalX=185, globalY=308, phase=moved
+[asset.protocol] LOG: polar: (151.15885683611,2.6749864733396)
+[asset.protocol] LOG: after: [Point 185, 308]
+[asset.protocol] LOG: before: Touch 0: globalX=186, globalY=309, phase=moved
+[asset.protocol] LOG: polar: (150.72159765608,2.6660761657427)
+[asset.protocol] LOG: after: [Point 186, 309]
+[asset.protocol] LOG: before: Touch 0: globalX=224, globalY=322, phase=moved
+[asset.protocol] LOG: polar: (126.25371281669,2.4346845928297)
+[asset.protocol] LOG: after: [Point 224, 322]
+[asset.protocol] LOG: before: Touch 0: globalX=258, globalY=324, phase=moved
+[asset.protocol] LOG: polar: (104.40306508911,2.2066347503186)
+[asset.protocol] LOG: after: [Point 258, 324]
+[asset.protocol] LOG: before: Touch 0: globalX=260, globalY=322, phase=moved
+[asset.protocol] LOG: polar: (101.60708636704,2.2024869611339)
+[asset.protocol] LOG: after: [Point 260, 322]
+[asset.protocol] LOG: before: Touch 0: globalX=314, globalY=300, phase=moved
+[asset.protocol] LOG: polar: (60.299253726725,1.6704649792861)
+[asset.protocol] LOG: after: [Point 314, 300]
+[asset.protocol] LOG: before: Touch 0: globalX=333, globalY=276, phase=moved
+[asset.protocol] LOG: polar: (38.275318418009,1.224257462361)
+[asset.protocol] LOG: after: [Point 333, 276]
+[asset.protocol] LOG: before: Touch 0: globalX=350, globalY=247, phase=moved
+[asset.protocol] LOG: polar: (30.805843601499,0.229231933277)
+[asset.protocol] LOG: after: [Point 350, 247]
+[asset.protocol] LOG: before: Touch 0: globalX=362, globalY=224, phase=moved
+[asset.protocol] LOG: polar: (44.944410108488,5.9192063506699)
+[asset.protocol] LOG: after: [Point 362, 224]
+[asset.protocol] LOG: before: Touch 0: globalX=368, globalY=198, phase=moved
+[asset.protocol] LOG: polar: (63.780874876408,5.564355307558)
+[asset.protocol] LOG: after: [Point 368, 198]
+[asset.protocol] LOG: before: Touch 0: globalX=367, globalY=190, phase=moved
+[asset.protocol] LOG: polar: (68.622153857191,5.4668691642191)
+[asset.protocol] LOG: after: [Point 367, 190]
+[asset.protocol] LOG: before: Touch 0: globalX=361, globalY=176, phase=moved
+[asset.protocol] LOG: polar: (76.006578662639,5.2821454338677)
+[asset.protocol] LOG: after: [Point 361, 176]
+[asset.protocol] LOG: before: Touch 0: globalX=360, globalY=175, phase=moved
+[asset.protocol] LOG: polar: (76.321687612369,5.2640439629132)
+[asset.protocol] LOG: after: [Point 360, 175]
+[asset.protocol] LOG: before: Touch 0: globalX=331, globalY=129, phase=moved
+[asset.protocol] LOG: polar: (111.54371340421,4.8111655724524)
+[asset.protocol] LOG: after: [Point 331, 129]
+[asset.protocol] LOG: before: Touch 0: globalX=329, globalY=126, phase=moved
+[asset.protocol] LOG: polar: (114.35471131528,4.7911729413738)
+[asset.protocol] LOG: after: [Point 329, 126]
+[asset.protocol] LOG: before: Touch 0: globalX=281, globalY=84, phase=moved
+[asset.protocol] LOG: polar: (160.80111939909,4.4674103172578)
+[asset.protocol] LOG: after: [Point 281, 84]
+[asset.protocol] LOG: before: Touch 0: globalX=239, globalY=76, phase=moved
+[asset.protocol] LOG: polar: (182.91254740996,4.2536313079584)
+[asset.protocol] LOG: after: [Point 239, 76]
+[asset.protocol] LOG: before: Touch 0: globalX=201, globalY=82, phase=moved
+[asset.protocol] LOG: polar: (197.80040444852,4.0668656296564)
+[asset.protocol] LOG: after: [Point 201, 82]
+[asset.protocol] LOG: before: Touch 0: globalX=147, globalY=102, phase=moved
+[asset.protocol] LOG: polar: (221.29844102478,3.8149221641465)
+[asset.protocol] LOG: after: [Point 147, 102]
+[asset.protocol] LOG: before: Touch 0: globalX=128, globalY=113, phase=moved
+[asset.protocol] LOG: polar: (230.20208513391,3.725980815046)
+[asset.protocol] LOG: after: [Point 128, 113]
+[asset.protocol] LOG: before: Touch 0: globalX=127, globalY=113, phase=moved
+[asset.protocol] LOG: polar: (231.03679360656,3.7235929282619)
+[asset.protocol] LOG: after: [Point 127, 113]
+[asset.protocol] LOG: before: Touch 0: globalX=126, globalY=115, phase=moved
+[asset.protocol] LOG: polar: (230.78344827998,3.7139715285169)
+[asset.protocol] LOG: after: [Point 126, 115]
+[asset.protocol] LOG: before: Touch 0: globalX=126, globalY=115, phase=ended
+[asset.protocol] LOG: polar: (230.78344827998,3.7139715285169)
+[asset.protocol] LOG: after: [Point 126, 115]
+[asset.protocol] LOG: before: Touch 0: globalX=376, globalY=187, phase=began
+[asset.protocol] LOG: polar: (77.103826104805,5.5253031330676)
+[asset.protocol] LOG: after: [Point 376, 187]
+[asset.protocol] LOG: before: Touch 0: globalX=376, globalY=187, phase=ended
+[asset.protocol] LOG: polar: (77.103826104805,5.5253031330676)
+[asset.protocol] LOG: after: [Point 376, 187]
+[asset.protocol] LOG: before: Touch 0: globalX=379, globalY=348, phase=began
+[asset.protocol] LOG: polar: (123.06502346321,1.0708010967751)
+[asset.protocol] LOG: after: [Point 379, 348]
+[asset.protocol] LOG: before: Touch 0: globalX=379, globalY=348, phase=ended
+[asset.protocol] LOG: polar: (123.06502346321,1.0708010967751)
+[asset.protocol] LOG: after: [Point 379, 348]
+[asset.protocol] LOG: before: Touch 0: globalX=202, globalY=266, phase=began
+[asset.protocol] LOG: polar: (120.83045973595,2.9247190379234)
+[asset.protocol] LOG: after: [Point 202, 266]
+[asset.protocol] LOG: before: Touch 0: globalX=202, globalY=266, phase=ended
+[asset.protocol] LOG: polar: (120.83045973595,2.9247190379234)
+[asset.protocol] LOG: after: [Point 202, 266]
+[asset.protocol] LOG: before: Touch 0: globalX=279, globalY=170, phase=began
+[asset.protocol] LOG: polar: (81.123362849428,4.1825399109286)
+[asset.protocol] LOG: after: [Point 279, 170]
+[asset.protocol] LOG: before: Touch 0: globalX=280, globalY=169, phase=moved
+[asset.protocol] LOG: polar: (81.492330927517,4.1993310709757)
+[asset.protocol] LOG: after: [Point 280, 169]
+[asset.protocol] LOG: before: Touch 0: globalX=280, globalY=168, phase=moved
+[asset.protocol] LOG: polar: (82.365041127896,4.2052904759924)
+[asset.protocol] LOG: after: [Point 280, 168]
+[asset.protocol] LOG: before: Touch 0: globalX=281, globalY=168, phase=moved
+[asset.protocol] LOG: polar: (81.884064383737,4.2159662269798)
+[asset.protocol] LOG: after: [Point 281, 168]
+[asset.protocol] LOG: before: Touch 0: globalX=282, globalY=168, phase=moved
+[asset.protocol] LOG: polar: (81.41252974819,4.2267668870872)
+[asset.protocol] LOG: after: [Point 282, 168]
+[asset.protocol] LOG: before: Touch 0: globalX=310, globalY=169, phase=moved
+[asset.protocol] LOG: polar: (71.700767080973,4.5724643098106)
+[asset.protocol] LOG: after: [Point 310, 169]
+[asset.protocol] LOG: before: Touch 0: globalX=353, globalY=170, phase=moved
+[asset.protocol] LOG: polar: (77.388629655783,5.1529193210012)
+[asset.protocol] LOG: after: [Point 353, 170]
+[asset.protocol] LOG: before: Touch 0: globalX=414, globalY=173, phase=moved
+[asset.protocol] LOG: polar: (115.43396380615,5.6639428702018)
+[asset.protocol] LOG: after: [Point 414, 173]
+[asset.protocol] LOG: before: Touch 0: globalX=440, globalY=184, phase=moved
+[asset.protocol] LOG: polar: (132.42356285797,5.846558147366)
+[asset.protocol] LOG: after: [Point 440, 184]
+[asset.protocol] LOG: before: Touch 0: globalX=444, globalY=202, phase=moved
+[asset.protocol] LOG: polar: (129.69194269499,5.9858201619557)
+[asset.protocol] LOG: after: [Point 444, 202]
+[asset.protocol] LOG: before: Touch 0: globalX=444, globalY=204, phase=moved
+[asset.protocol] LOG: polar: (129.12009913255,6.00063035471)
+[asset.protocol] LOG: after: [Point 444, 204]
+[asset.protocol] LOG: before: Touch 0: globalX=440, globalY=240, phase=moved
+[asset.protocol] LOG: polar: (120,0)
+[asset.protocol] LOG: after: [Point 440, 240]
+[asset.protocol] LOG: before: Touch 0: globalX=438, globalY=247, phase=moved
+[asset.protocol] LOG: polar: (118.20744477401,0.059252593663432)
+[asset.protocol] LOG: after: [Point 438, 247]
+[asset.protocol] LOG: before: Touch 0: globalX=437, globalY=248, phase=moved
+[asset.protocol] LOG: polar: (117.2731853409,0.068269807056828)
+[asset.protocol] LOG: after: [Point 437, 248]
+[asset.protocol] LOG: before: Touch 0: globalX=437, globalY=250, phase=moved
+[asset.protocol] LOG: polar: (117.4265728019,0.085262869440529)
+[asset.protocol] LOG: after: [Point 437, 250]
+[asset.protocol] LOG: before: Touch 0: globalX=436, globalY=251, phase=moved
+[asset.protocol] LOG: polar: (116.52038448272,0.094544871540141)
+[asset.protocol] LOG: after: [Point 436, 251]
+[asset.protocol] LOG: before: Touch 0: globalX=436, globalY=252, phase=moved
+[asset.protocol] LOG: polar: (116.61903789691,0.1030816085227)
+[asset.protocol] LOG: after: [Point 436, 252]
+[asset.protocol] LOG: before: Touch 0: globalX=435, globalY=254, phase=moved
+[asset.protocol] LOG: polar: (115.84903970254,0.12114301415792)
+[asset.protocol] LOG: after: [Point 435, 254]
+[asset.protocol] LOG: before: Touch 0: globalX=415, globalY=292, phase=moved
+[asset.protocol] LOG: polar: (108.30050784738,0.50082055996448)
+[asset.protocol] LOG: after: [Point 415, 292]
+[asset.protocol] LOG: before: Touch 0: globalX=415, globalY=292, phase=ended
+[asset.protocol] LOG: polar: (108.30050784738,0.50082055996448)
+[asset.protocol] LOG: after: [Point 415, 292]
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  src\CubicSpline.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12341, trying port 12342
+[loom.asset]    o OK!
+[loom.asset] Client connected (1d8)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 240906 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.FieldInfo : 69
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: before: Touch 0: globalX=206, globalY=285, phase=ended
+[asset.protocol] LOG: polar: (122.56018929489,2.7656316997185)
+[asset.protocol] LOG: after: [Point 206, 285]
+[asset.protocol] LOG: before: Touch 0: globalX=484, globalY=327, phase=ended
+[asset.protocol] LOG: polar: (185.6475154695,0.48773933242573)
+[asset.protocol] LOG: after: [Point 484, 327]
+[asset.protocol] LOG: before: Touch 0: globalX=239, globalY=207, phase=ended
+[asset.protocol] LOG: polar: (87.46427842268,3.5284683713208)
+[asset.protocol] LOG: after: [Point 239, 207]
+[asset.protocol] LOG: before: Touch 0: globalX=185, globalY=336, phase=ended
+[asset.protocol] LOG: polar: (165.65325230734,2.5234484276546)
+[asset.protocol] LOG: after: [Point 185, 336]
+[asset.protocol] LOG: before: Touch 0: globalX=376, globalY=180, phase=ended
+[asset.protocol] LOG: polar: (82.073138114733,5.4633180427826)
+[asset.protocol] LOG: after: [Point 376, 180]
+[asset.protocol] LOG: before: Touch 0: globalX=382, globalY=261, phase=ended
+[asset.protocol] LOG: polar: (65.459911396213,0.32658143469062)
+[asset.protocol] LOG: after: [Point 382, 261]
+[asset.protocol] LOG: before: Touch 0: globalX=252, globalY=201, phase=ended
+[asset.protocol] LOG: polar: (78.390050389064,3.6623210449969)
+[asset.protocol] LOG: after: [Point 252, 201]
+[asset.protocol] LOG: before: Touch 0: globalX=216, globalY=319, phase=ended
+[asset.protocol] LOG: polar: (130.60245020672,2.4919660471381)
+[asset.protocol] LOG: after: [Point 216, 319]
+[asset.protocol] LOG: before: Touch 0: globalX=320, globalY=356, phase=ended
+[asset.protocol] LOG: polar: (116,1.5707963267949)
+[asset.protocol] LOG: after: [Point 320, 356]
+[asset.protocol] LOG: before: Touch 0: globalX=486, globalY=299, phase=ended
+[asset.protocol] LOG: polar: (176.17321022221,0.34149664111188)
+[asset.protocol] LOG: after: [Point 486, 299]
+[asset.protocol] LOG: before: Touch 0: globalX=444, globalY=189, phase=ended
+[asset.protocol] LOG: polar: (134.07833531186,5.8929839429728)
+[asset.protocol] LOG: after: [Point 444, 189]
+[asset.protocol] LOG: before: Touch 0: globalX=316, globalY=155, phase=ended
+[asset.protocol] LOG: polar: (85.094065598019,4.6653648485419)
+[asset.protocol] LOG: after: [Point 316, 155]
+[asset.protocol] LOG: before: Touch 0: globalX=176, globalY=216, phase=ended
+[asset.protocol] LOG: polar: (145.98630072716,3.3067413310044)
+[asset.protocol] LOG: after: [Point 176, 216]
+[asset.protocol] LOG: before: Touch 0: globalX=172, globalY=353, phase=ended
+[asset.protocol] LOG: polar: (186.20687420179,2.4894988454334)
+[asset.protocol] LOG: after: [Point 172, 353]
+[asset.protocol] LOG: before: Touch 0: globalX=258, globalY=397, phase=ended
+[asset.protocol] LOG: polar: (168.79869667743,1.9469022922661)
+[asset.protocol] LOG: after: [Point 258, 397]
+[asset.protocol] LOG: before: Touch 0: globalX=420, globalY=388, phase=ended
+[asset.protocol] LOG: polar: (178.61690849413,0.97658262299446)
+[asset.protocol] LOG: after: [Point 420, 388]
+[asset.protocol] LOG: before: Touch 0: globalX=521, globalY=333, phase=ended
+[asset.protocol] LOG: polar: (221.4723459035,0.43335384908203)
+[asset.protocol] LOG: after: [Point 521, 333]
+[asset.protocol] LOG: before: Touch 0: globalX=425, globalY=222, phase=ended
+[asset.protocol] LOG: polar: (106.53168542739,6.1134070332112)
+[asset.protocol] LOG: after: [Point 425, 222]
+[asset.protocol] LOG: before: Touch 0: globalX=228, globalY=197, phase=ended
+[asset.protocol] LOG: polar: (101.55294185793,3.5788146973308)
+[asset.protocol] LOG: after: [Point 228, 197]
+[asset.protocol] LOG: before: Touch 0: globalX=410, globalY=323, phase=ended
+[asset.protocol] LOG: polar: (122.42957159118,0.74495779578988)
+[asset.protocol] LOG: after: [Point 410, 323]
+[asset.protocol] LOG: before: Touch 0: globalX=507, globalY=260, phase=ended
+[asset.protocol] LOG: polar: (188.06647760832,0.10654685089911)
+[asset.protocol] LOG: after: [Point 507, 260]
+[asset.protocol] LOG: before: Touch 0: globalX=414, globalY=184, phase=ended
+[asset.protocol] LOG: polar: (109.41663493272,5.7459005928788)
+[asset.protocol] LOG: after: [Point 414, 184]
+[asset.protocol] LOG: before: Touch 0: globalX=200, globalY=151, phase=ended
+[asset.protocol] LOG: polar: (149.40214188558,3.7797390612191)
+[asset.protocol] LOG: after: [Point 200, 151]
+[asset.protocol] LOG: before: Touch 0: globalX=168, globalY=287, phase=ended
+[asset.protocol] LOG: polar: (159.10059710762,2.8417074012651)
+[asset.protocol] LOG: after: [Point 168, 287]
+[asset.protocol] LOG: before: Touch 0: globalX=408, globalY=363, phase=ended
+[asset.protocol] LOG: polar: (151.23822268197,0.94977820145538)
+[asset.protocol] LOG: after: [Point 408, 363]
+[asset.protocol] LOG: before: Touch 0: globalX=482, globalY=239, phase=ended
+[asset.protocol] LOG: polar: (162.00308639035,6.2770125460748)
+[asset.protocol] LOG: after: [Point 482, 239]
+[asset.protocol] LOG: before: Touch 0: globalX=245, globalY=321, phase=ended
+[asset.protocol] LOG: polar: (110.39021695784,2.3177519001712)
+[asset.protocol] LOG: after: [Point 245, 321]
+[asset.protocol] LOG: before: Touch 0: globalX=286, globalY=216, phase=ended
+[asset.protocol] LOG: polar: (41.61730409337,3.756255605512)
+[asset.protocol] LOG: after: [Point 286, 216]
+[asset.protocol] LOG: before: Touch 0: globalX=358, globalY=360, phase=ended
+[asset.protocol] LOG: polar: (125.87295182048,1.2641200073932)
+[asset.protocol] LOG: after: [Point 358, 360]
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1fc)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: =====================
+[asset.protocol] LOG: =   RUNTIME ERROR   =
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1f4)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[loom.asset]    o OK!
+[loom.asset] Client connected (200)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[loom.asset]    o OK!
+[loom.asset] Client connected (170)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241741 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[loom.asset]    o OK!
+[loom.asset] Client connected (174)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241741 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12341, trying port 12342
+[loom.asset]    o OK!
+[loom.asset] Client connected (134)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241045 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3210 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241115 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3208 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241177 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 4
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3204 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241376 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3200 bytes.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241435 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 4
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3196 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241516 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 22
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 4
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3192 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241631 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 22
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 4
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12341, trying port 12342
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12342, trying port 12343
+[loom.asset]    o OK!
+[loom.asset] Client connected (120)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241710 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12341, trying port 12342
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12342, trying port 12343
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12343, trying port 12344
+[loom.asset]    o OK!
+[loom.asset] Client connected (128)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241561 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: i is 1
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] Took 400 ms to scan files, consider removing unused files?
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3291 bytes.
+[loom.asset] Took 441 ms to scan files, consider removing unused files?
+[loom.asset] Took 463 ms to scan files, consider removing unused files?
+[loom.asset] Took 387 ms to scan files, consider removing unused files?
+[loom.asset] Took 455 ms to scan files, consider removing unused files?
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241644 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Image : 22
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 4
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (200)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 1
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3333 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3334 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 2
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241676 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 7
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 25
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (26,1.5707963267949)
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3344 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241685 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 20
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 2
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1f4)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 2
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Updating texture assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[loom.asset]    o OK!
+[loom.asset] Client connected (170)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241762 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 2
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 4
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 4
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 4
+[asset.protocol] LOG: i is 2
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 4
+[asset.protocol] LOG: i is 3
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3359 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241783 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 29
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 11
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (185.91395859375,2.4399674339361)
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 1502 bytes.
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3357 bytes.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (106.00471687618,3.1510263359958)
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: (185.91395859375,2.4399674339361)
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\PolarPoint.ls', 1521 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241826 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: loom2d.display.Image : 22
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 4
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12341, trying port 12342
+[loom.asset]    o OK!
+[loom.asset] Client connected (134)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241832 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] SENDING       -  src\PolarPoint.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[loom.asset]    o OK!
+[loom.asset] Client connected (1f4)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[loom.asset] SENDING       -  bin\Main.loom
+[loom.asset] Starting file watcher thread...
+[loom.asset]    o OK!
+[loom.asset] Starting socket listener thread...
+[loom.asset]    o OK!
+[loom.asset] Listening on port 12340
+[platform.network] Could not bind TCP socket due to -1
+[loom.asset]    - Failed to acquire port 12340, trying port 12341
+[loom.asset]    o OK!
+[loom.asset] Client connected (174)!
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: [GFXQuadRenderer] Initializing Graphics Resources
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: [GFXTexture] loading assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/bg.png - 1297 x 760 at id 0
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/bg.png
+[asset.protocol] LOG: [GFXTexture] loading assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loaded assets/tile.png - 128 x 128 at id 1
+[asset.protocol] LOG: [GFXTexture] Create texture for assets/tile.png
+[asset.protocol] LOG: [GFXTexture] loading assets\Curse-hd.png
+[asset.protocol] LOG: [GFXTexture] loaded assets\Curse-hd.png - 512 x 512 at id 2
+[asset.protocol] LOG: [GFXTexture] Create texture for assets\Curse-hd.png
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241603 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.Type : 12
+[asset.protocol] LOG: loom2d.display.Image : 19
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 1
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application]    o Waiting 150ms for asset agent connection...
+[asset.protocol] LOG: [loom.application]    o Connected to asset agent.
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (176.10224302944,3.1756703651768)
+[asset.protocol] LOG: Object:system.reflection.Type
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3426 bytes.
+[loom.asset] SENDING       -  bin\Main.loom
+[asset.protocol] LOG: [asset.core] Applying new version of 'bin\Main.loom', 241602 bytes.
+[asset.protocol] LOG: [loom.application] Restarting VM due to modification to 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] Reloading main assembly: Main.loom
+[asset.protocol] LOG: Dumping Managed Natives:
+[asset.protocol] LOG: system.reflection.FieldInfo : 71
+[asset.protocol] LOG: system.reflection.Type : 13
+[asset.protocol] LOG: cocos2d.CCScaledLayer : 1
+[asset.protocol] LOG: loom2d.ui.SimpleLabel : 2
+[asset.protocol] LOG: loom2d.display.Image : 20
+[asset.protocol] LOG: loom2d.display.Quad : 1
+[asset.protocol] LOG: system.VM : 1
+[asset.protocol] LOG: system.reflection.MetaInfo : 1
+[asset.protocol] LOG: loom2d.display.Stage : 1
+[asset.protocol] LOG: [loom.application]    o executing Main.loom
+[asset.protocol] LOG: [loom.application] Mapped asset for script: 'bin/Main.loom'
+[asset.protocol] LOG: [loom.application] LOOM Built (Release) Aug  1 2013 11:47:22
+[asset.protocol] LOG: [loom.application] Instantiating Application: ProjectNakedMonkeyX
+[asset.protocol] LOG: Initializing root group.
+[asset.protocol] LOG: initializing config
+[asset.protocol] LOG: SIZE 640x480
+[asset.protocol] LOG: Command manager online.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 1
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (182.13182039391,1.0284935895793)
+[asset.protocol] LOG: system.Vector
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (139.83204210767,3.3431957622426)
+[asset.protocol] LOG: system.Vector
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 2
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: (182.13182039391,1.0284935895793)
+[asset.protocol] LOG: system.Vector
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3429 bytes.
+[asset.protocol] LOG: 1
+[asset.protocol] LOG: 2
+[asset.protocol] LOG: 3
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 0
+[asset.protocol] LOG: (155.08062419271,2.1820505531529)
+[asset.protocol] LOG: system.Vector
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 1
+[asset.protocol] LOG: (139.83204210767,3.3431957622426)
+[asset.protocol] LOG: system.Vector
+[asset.protocol] LOG: 4
+[asset.protocol] LOG: 5
+[asset.protocol] LOG: 6
+[asset.protocol] LOG: 7
+[asset.protocol] LOG: length is 3
+[asset.protocol] LOG: i is 2
+[asset.protocol] LOG: (182.13182039391,1.0284935895793)
+[asset.protocol] LOG: system.Vector
+[loom.asset] SENDING       -  src\ProjectNakedMonkeyX.ls
+[asset.protocol] LOG: [asset.core] Applying new version of 'src\ProjectNakedMonkeyX.ls', 3429 bytes.
+[loom.asset] Took 699 ms to scan files, consider removing unused files?
+[loom.asset] Took 699 ms to scan files, consider removing unused files?
+[loom.asset] Took 3891 ms to scan files, consider removing unused files?
+[loom.asset] Took 10706 ms to scan files, consider removing unused files?
+[loom.asset] Took 2827 ms to scan files, consider removing unused files?
+[loom.asset] Took 3027 ms to scan files, consider removing unused files?
+[loom.asset] Took 3962 ms to scan files, consider removing unused files?
+[loom.asset] Took 5496 ms to scan files, consider removing unused files?
+[loom.asset] Took 1632 ms to scan files, consider removing unused files?
+[loom.asset] Took 2830 ms to scan files, consider removing unused files?
+[loom.asset] Took 3168 ms to scan files, consider removing unused files?
+[loom.asset] Took 4083 ms to scan files, consider removing unused files?
+[loom.asset] Took 4668 ms to scan files, consider removing unused files?
+[loom.asset] Took 3706 ms to scan files, consider removing unused files?
+[loom.asset] Took 3204 ms to scan files, consider removing unused files?
+[loom.asset] Took 1431 ms to scan files, consider removing unused files?
+[loom.asset] Took 1779 ms to scan files, consider removing unused files?
+[loom.asset] Took 1755 ms to scan files, consider removing unused files?
+[loom.asset] Took 2404 ms to scan files, consider removing unused files?
+[loom.asset] Took 2080 ms to scan files, consider removing unused files?
+[loom.asset] Took 1432 ms to scan files, consider removing unused files?
+[loom.asset] Took 2833 ms to scan files, consider removing unused files?
+[loom.asset] Took 2841 ms to scan files, consider removing unused files?
+[loom.asset] Took 2777 ms to scan files, consider removing unused files?
+[loom.asset] Took 3371 ms to scan files, consider removing unused files?
+[loom.asset] Took 2055 ms to scan files, consider removing unused files?
+[loom.asset] Took 2645 ms to scan files, consider removing unused files?
+[loom.asset] Took 1002 ms to scan files, consider removing unused files?
+[loom.asset] Took 2143 ms to scan files, consider removing unused files?
+[loom.asset] Took 1245 ms to scan files, consider removing unused files?
+[loom.asset] Took 445 ms to scan files, consider removing unused files?
+[loom.asset] Took 1917 ms to scan files, consider removing unused files?
+[loom.asset] Took 491 ms to scan files, consider removing unused files?
+[loom.asset] Took 689 ms to scan files, consider removing unused files?
+[loom.asset] Took 699 ms to scan files, consider removing unused files?
+[loom.asset] Took 1657 ms to scan files, consider removing unused files?
+[loom.asset] Took 1650 ms to scan files, consider removing unused files?
+[loom.asset] Took 3690 ms to scan files, consider removing unused files?
+[loom.asset] Took 2323 ms to scan files, consider removing unused files?
+[loom.asset] Took 2647 ms to scan files, consider removing unused files?
+[loom.asset] Took 2371 ms to scan files, consider removing unused files?
+[loom.asset] Took 2572 ms to scan files, consider removing unused files?
+[loom.asset] Took 1720 ms to scan files, consider removing unused files?
+[loom.asset] Took 3156 ms to scan files, consider removing unused files?
+[loom.asset] Took 3037 ms to scan files, consider removing unused files?
+[loom.asset] Took 1634 ms to scan files, consider removing unused files?
+[loom.asset] Took 2536 ms to scan files, consider removing unused files?
+[loom.asset] Took 2173 ms to scan files, consider removing unused files?
+[loom.asset] Took 1467 ms to scan files, consider removing unused files?
+[loom.asset] Took 1141 ms to scan files, consider removing unused files?
+[loom.asset] Took 4106 ms to scan files, consider removing unused files?
+[loom.asset] Took 4370 ms to scan files, consider removing unused files?
+[loom.asset] Took 2554 ms to scan files, consider removing unused files?
+[loom.asset] Took 7235 ms to scan files, consider removing unused files?
+[loom.asset] Took 3576 ms to scan files, consider removing unused files?
+[loom.asset] Took 2303 ms to scan files, consider removing unused files?
+[loom.asset] Took 3367 ms to scan files, consider removing unused files?
+[loom.asset] Took 3690 ms to scan files, consider removing unused files?
+[loom.asset] Took 4257 ms to scan files, consider removing unused files?
+[loom.asset] Took 3412 ms to scan files, consider removing unused files?
+[loom.asset] Took 2590 ms to scan files, consider removing unused files?
+[loom.asset] Took 1192 ms to scan files, consider removing unused files?
+[loom.asset] Took 1854 ms to scan files, consider removing unused files?
+[loom.asset] Took 815 ms to scan files, consider removing unused files?
+
+[loom.asset] Took 1033 ms to scan files, consider removing unused files?
+[loom.asset] Took 1023 ms to scan files, consider removing unused files?
+[loom.asset] Took 1122 ms to scan files, consider removing unused files?
+[loom.asset] Took 1452 ms to scan files, consider removing unused files?
+[loom.asset] Took 1611 ms to scan files, consider removing unused files?
+[loom.asset] Took 787 ms to scan files, consider removing unused files?
+[loom.asset] Took 3610 ms to scan files, consider removing unused files?
+[loom.asset] Took 4527 ms to scan files, consider removing unused files?
+[loom.asset] Took 1167 ms to scan files, consider removing unused files?
+[loom.asset] Took 752 ms to scan files, consider removing unused files?
+[loom.asset] Took 1487 ms to scan files, consider removing unused files?
+[loom.asset] Took 3350 ms to scan files, consider removing unused files?
+[loom.asset] Took 448 ms to scan files, consider removing unused files?
+[loom.asset] Took 1714 ms to scan files, consider removing unused files?
+[loom.asset] Took 1291 ms to scan files, consider removing unused files?
+[loom.asset] Took 1745 ms to scan files, consider removing unused files?
+[loom.asset] Took 673 ms to scan files, consider removing unused files?
+[loom.asset] Took 671 ms to scan files, consider removing unused files?
+[loom.asset] Took 2568 ms to scan files, consider removing unused files?
+[loom.asset] Took 310 ms to scan files, consider removing unused files?
+[loom.asset] Took 3078 ms to scan files, consider removing unused files?
+[loom.asset] Took 1916 ms to scan files, consider removing unused files?
+[loom.asset] Took 1917 ms to scan files, consider removing unused files?
+[loom.asset] Took 319 ms to scan files, consider removing unused files?
+[loom.asset] Took 1169 ms to scan files, consider removing unused files?
+[loom.asset] Took 1151 ms to scan files, consider removing unused files?
+[loom.asset] Took 1444 ms to scan files, consider removing unused files?
+[loom.asset] Took 906 ms to scan files, consider removing unused files?
+[loom.asset] Took 663 ms to scan files, consider removing unused files?
+[loom.asset] Took 542 ms to scan files, consider removing unused files?
+[loom.asset] Took 500 ms to scan files, consider removing unused files?
+[loom.asset] Took 863 ms to scan files, consider removing unused files?
+[loom.asset] Took 430 ms to scan files, consider removing unused files?
+[loom.asset] Took 1099 ms to scan files, consider removing unused files?
+[loom.asset] Took 1402 ms to scan files, consider removing unused files?
+[loom.asset] Took 520 ms to scan files, consider removing unused files?
+[loom.asset] Took 1285 ms to scan files, consider removing unused files?
+[loom.asset] Took 989 ms to scan files, consider removing unused files?
+[loom.asset] Took 519 ms to scan files, consider removing unused files?
+[loom.asset] Took 650 ms to scan files, consider removing unused files?
+[loom.asset] Took 1807 ms to scan files, consider removing unused files?
+[loom.asset] Took 2598 ms to scan files, consider removing unused files?
+[loom.asset] Took 1803 ms to scan files, consider removing unused files?
+[loom.asset] Took 7585 ms to scan files, consider removing unused files?
+[loom.asset] Took 8035 ms to scan files, consider removing unused files?
+[loom.asset] Took 1174 ms to scan files, consider removing unused files?
+[loom.asset] Took 925 ms to scan files, consider removing unused files?
+[loom.asset] Took 331 ms to scan files, consider removing unused files?
+[loom.asset] Took 1315 ms to scan files, consider removing unused files?
+[loom.asset] Took 1398 ms to scan files, consider removing unused files?
+[loom.asset] Took 572 ms to scan files, consider removing unused files?
+[loom.asset] Took 430 ms to scan files, consider removing unused files?
+[loom.asset] Took 430 ms to scan files, consider removing unused files?
+[loom.asset] Took 330 ms to scan files, consider removing unused files?
+[loom.asset] Took 642 ms to scan files, consider removing unused files?
+[loom.asset] Took 427 ms to scan files, consider removing unused files?
+[loom.asset] Took 350 ms to scan files, consider removing unused files?
+[loom.asset] Took 1096 ms to scan files, consider removing unused files?
+[loom.asset] Took 608 ms to scan files, consider removing unused files?
+[loom.asset] Took 275 ms to scan files, consider removing unused files?
+[loom.asset] Took 271 ms to scan files, consider removing unused files?
+[loom.asset] Took 255 ms to scan files, consider removing unused files?
+[loom.asset] Took 300 ms to scan files, consider removing unused files?
+[loom.asset] Took 326 ms to scan files, consider removing unused files?
+[loom.asset] Took 274 ms to scan files, consider removing unused files?
+[loom.asset] Took 338 ms to scan files, consider removing unused files?
+[loom.asset] Took 337 ms to scan files, consider removing unused files?
